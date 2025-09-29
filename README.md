@@ -3,7 +3,7 @@
 
 - 🌱 Currently exploring **Airflow, Databricks, and Azure Data Lake for modern data engineering workflows**
 
-- 📫 How to reach me **hashemqaryouti4ij@gmail.com**
+- 📫 How to reach me **hashem.f.qaryouti@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
