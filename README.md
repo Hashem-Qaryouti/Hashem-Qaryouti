@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashem Qaryouti</h1>
 <!-- <h3 align="center">Data & Cloud Engineer passionate about data-driven solutions</h3> -->
 <h3 align="center">SAP Software Developer passionate about building enterprise solutions</h3>
-<!-- - 🌱 Currently exploring **Airflow, Databricks, and Azure Data Lake for modern data engineering workflows** -->
+
 - 🌱 Currently exploring **SAP BTP, and modern SAP development (Fiori, UI5) for enterprise application development**
 - 📫 How to reach me **hashem.f.qaryouti@gmail.com**
 
