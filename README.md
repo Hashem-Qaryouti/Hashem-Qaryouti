@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hashem Qaryouti</h1>
 <!-- <h3 align="center">Data & Cloud Engineer passionate about data-driven solutions</h3> -->
-<h3 align="center">SAP Software Developer passionate about building enterprise solutions</h3>
+<h3 align="center">Backend Software Developer passionate about building enterprise solutions</h3>
 
-- 🌱 Currently exploring **SAP BTP, and modern SAP development (Fiori, UI5) for enterprise application development**
+- 🌱 Currently exploring **Kafka,NiFi,Kubernetes,dbt,**
 - 📫 How to reach me **hashem.f.qaryouti@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
